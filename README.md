@@ -38,6 +38,11 @@
 </div>
 
 <div>
+  <h3>⭐ Positioning Elements</h3>
+  <p>I practiced using <code>position: relative</code> and <code>position: absolute</code> to rearrange and layer elements on the page. This was helpful for overlapping elements and creating complex layouts where the elements need to break out of the normal document flow.</p>
+</div>
+
+<div>
   <h3>⭐ CSS Mask Properties</h3>
   <p>I discovered a new technique for changing SVG colors without using inline SVG or filters. The mask properties let me use external SVG files as masks and control their color through <code>background-color</code>.</p>
   <p><strong>Key Properties:</strong></p>
@@ -48,6 +53,12 @@
     <li><code>mask-position</code>: Centers or positions the mask</li>
   </ul>
   <p>This approach is cleaner than using CSS filters and allows for precise color control. Perfect for icon systems where colors are needed to be changed on hover or for different themes.</p>
+</div>
+
+<div>
+  <h3>⭐ Mix Blend Mode</h3>
+  <p>I learned how to use <code>mix-blend-mode</code> to create text that automatically inverts its color based on the background. I used <code>mix-blend-mode: difference</code> to make the hero's header appear white on dark background, and black on light background.</p>
+  <p>This was very useful for creating that split-color effect where text spans across different colored sections without needing separate elements or complex position.</p>
 </div>
 
 <div>

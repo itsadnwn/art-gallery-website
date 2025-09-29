@@ -80,6 +80,7 @@
 
 <ul>
   <li><strong>index.html</strong>: Main HTML markup and content structure</li>
+  <li><strong>location.html</strong>: HTML markup and content structure for Location page</li>
   <li><strong>styles.css</strong>: CSS styling with responsive design and interactive effects</li>
   <li><strong>resources</strong>: Images and other assets</li>
 </ul>

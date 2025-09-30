@@ -1,4 +1,4 @@
-# 📚 Frontend Mentor Challenge - Bento Grid
+# 📚 Frontend Mentor Challenge - Art Gallery Website
 
 <p>A responsive page for <a href="https://www.frontendmentor.io/challenges/art-gallery-website-yVdrZlxyA" target="_blank">[Art Gallery Website on Frontend Mentor]</a>. This 2-page art gallery project contains some particularly interesting layouts.</p>
 

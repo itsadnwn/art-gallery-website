@@ -1,95 +1,69 @@
 # 📚 Frontend Mentor Challenge - Art Gallery Website
 
-<p>A responsive page for <a href="https://www.frontendmentor.io/challenges/art-gallery-website-yVdrZlxyA" target="_blank">[Art Gallery Website on Frontend Mentor]</a>. This 2-page art gallery project contains some particularly interesting layouts.</p>
+A responsive page for [Art Gallery Website on Frontend Mentor](https://www.frontendmentor.io/challenges/art-gallery-website-yVdrZlxyA). This 2-page art gallery project contains some particularly interesting layouts.
 
-<figure>
-  <img src="/resources/assets/screenshot.png">
-</figure>
+(/resources/assets/screenshot.png)
 
 # 🔗 Links
 
-<ul>
-  <li><strong>Solution URL:</strong> <a href="https://github.com/itsadnwn/art-gallery-website/" target="_blank">github.com/itsadnwn/art-gallery-website</a></li>
-  <li><strong>Live Site URL:</strong> <a href="https://itsadnwn-art-gallery-website.vercel.app/" target="_blank">itsadnwn-art-gallery-website.vercel.app</a></li>
-</ul>
++ **Solution URL:** [github.com/itsadnwn/art-gallery-website](https://github.com/itsadnwn/art-gallery-website/)
++ + **Live Site URL:** [itsadnwn-art-gallery-website.vercel.app](https://itsadnwn-art-gallery-website.vercel.app/)
 
 # 🛠️ Technologies Used
 
-<p>This project was built with:</p>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Flexbox</li>
-  <li>CSS Grid</li>
-  <li>Media Queries for responsive design</li>
-</ul>
+This project was built with:
++ HTML5
++ CSS3
++ Flexbox
++ CSS Grid
++ Media Queries for responsive design
 
 # 🎯 What I learned & Practiced
 
-<div>
-  <h3>⭐ CSS Grid</h3>
-  <p>I worked more with CSS Grid layouts to structure my page sections. Used <code>grid-template-columns</code> and <code>grid-template-rows</code> to create responsive layouts that adapt across different screen sizes.</p>
-  <p>I also used <code>grid-template-areas</code> to organize the layouts, which made it easier to understand the layout structure at a glance</p>
-</div>
+### ⭐ CSS Grid
+I worked more with CSS Grid layouts to structure my page sections. Used `grid-template-columns` and `grid-template-rows` to create responsive layouts that adapt across different screen sizes.
+I also used `grid-template-areas` to organize the layouts, which made it easier to understand the layout structure at a glance.
 
-<div>
-  <h3>⭐ Flexbox</h3>
-  <p>I continued practicing Flexbox for component-level layouts, especially for buttons and navigation elements. I used <code>flex-direction</code>, <code>align-items</code>, <code>justify-content</code> and <code>gap</code> to control spacing and alignment.</p>
-</div>
+### ⭐ Flexbox
+I continued practicing Flexbox for component-level layouts, especially for buttons and navigation elements. I used `flex-direction`, `align-items`, `justify-content` and `gap` to control spacing and alignment.
 
-<div>
-  <h3>⭐ Positioning Elements</h3>
-  <p>I practiced using <code>position: relative</code> and <code>position: absolute</code> to rearrange and layer elements on the page. This was helpful for overlapping elements and creating complex layouts where the elements need to break out of the normal document flow.</p>
-</div>
+### ⭐ Positioning Elements
+I practiced using `position: relative` and `position: absolute` to rearrange and layer elements on the page. This was helpful for overlapping elements and creating complex layouts where the elements need to break out of the normal document flow.
 
-<div>
-  <h3>⭐ CSS Mask Properties</h3>
-  <p>I discovered a new technique for changing SVG colors without using inline SVG or filters. The mask properties let me use external SVG files as masks and control their color through <code>background-color</code>.</p>
-  <p><strong>Key Properties:</strong></p>
-  <ul>
-    <li><code>mask-image</code>: Sets the SVG file as a mask</li>
-    <li><code>mask-size</code>: Controls how the mask scales</li>
-    <li><code>mask-repeat</code>: Prevents the mask from repeating</li>
-    <li><code>mask-position</code>: Centers or positions the mask</li>
-  </ul>
-  <p>This approach is cleaner than using CSS filters and allows for precise color control. Perfect for icon systems where colors are needed to be changed on hover or for different themes.</p>
-</div>
+### ⭐ CSS Mask Properties
+I discovered a new technique for changing SVG colors without using inline SVG or filters. The mask properties let me use external SVG files as masks and control their color through `background-color`.
 
-<div>
-  <h3>⭐ Mix Blend Mode</h3>
-  <p>I learned how to use <code>mix-blend-mode</code> to create text that automatically inverts its color based on the background. I used <code>mix-blend-mode: difference</code> to make the hero's header appear white on dark background, and black on light background.</p>
-  <p>This was very useful for creating that split-color effect where text spans across different colored sections without needing separate elements or complex position.</p>
-</div>
+**Key Properties:**
++ `mask-image`: Sets the SVG file as a mask
++ `mask-size`: Controls how the mask scales
++ `mask-repeat`: Prevents the mask from repeating
++ `mask-position`: Centers or positions the mask
 
-<div>
-  <h3>⭐ Other Key Learning Points</h3>
-  <ul>
-    <li>Found out that <code>outline</code> doesn't work on elements with mask properties, and I had to apply the outline to a parent wrapper element instead</li>
-    <li>Discovered that <code>display: block;</code> on images prevents unwanted white space below them</li>
-  </ul>
-</div>
+This approach is cleaner than using CSS filters and allows for precise color control. Perfect for icon systems where colors are needed to be changed on hover or for different themes.
+
+### ⭐ Mix Blend Mode
+I learned how to use `mix-blend-mode` to create text that automatically inverts its color based on the background. I used `mix-blend-mode: difference` to make the hero's header appear white on dark background, and black on light background.
+This was very useful for creating that split-color effect where text spans across different colored sections without needing separate elements or complex position.
+
+### ⭐ Other Key Learning Points
++ Found out that `outline` doesn't work on elements with mask properties, and I had to apply the outline to a parent wrapper element instead
++ Discovered that `display: block;` on images prevents unwanted white space below them
 
 # ✨ Key Features
 
-<ul>
-  <li><strong>Fully Responsive Design:</strong> Optimized layout that adapts to different screen sizes</li>
-  <li><strong>Modern CSS Techniques:</strong> Built using CSS Grid and Flexbox for robust layout control</li>
-</ul>
++ **Fully Responsive Design:** Optimized layout that adapts to different screen sizes
++ **Modern CSS Techniques:** Built using CSS Grid and Flexbox for robust layout control
 
 # 📁 File Structure
 
-<ul>
-  <li><strong>index.html</strong>: Main HTML markup and content structure</li>
-  <li><strong>location.html</strong>: HTML markup and content structure for Location page</li>
-  <li><strong>styles.css</strong>: CSS styling with responsive design and interactive effects</li>
-  <li><strong>resources</strong>: Images and other assets</li>
-</ul>
++ **index.html**: Main HTML markup and content structure
++ **location.html**: HTML markup and content structure for Location page
++ **styles.css**: CSS styling with responsive design and interactive effects
++ **resources**: Images and other assets
 
 # 🔧 Development Notes
 
-<ul>
-  <li>Built with semantic HTML5 for accessibility</li>
-  <li>CSS organized with custom properties for maintainability</li>
-  <li>Mobile-first approach ensures optimal performance on all devices</li>
-  <li>Tested across multiple browsers and device sizes</li>
-</ul>
++ Built with semantic HTML5 for accessibility
++ CSS organized with custom properties and maintainability 
++ Mobile-first approach ensures optimal performance on all devices
++ Tested across multiple browsers and device sizes

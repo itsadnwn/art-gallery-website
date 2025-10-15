@@ -7,7 +7,7 @@ A responsive page for [Art Gallery Website on Frontend Mentor](https://www.front
 # 🔗 Links
 
 + **Solution URL:** [github.com/itsadnwn/art-gallery-website](https://github.com/itsadnwn/art-gallery-website/)
-+ + **Live Site URL:** [itsadnwn-art-gallery-website.vercel.app](https://itsadnwn-art-gallery-website.vercel.app/)
++ **Live Site URL:** [itsadnwn-art-gallery-website.vercel.app](https://itsadnwn-art-gallery-website.vercel.app/)
 
 # 🛠️ Technologies Used
 

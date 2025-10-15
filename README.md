@@ -2,7 +2,7 @@
 
 A responsive page for [Art Gallery Website on Frontend Mentor](https://www.frontendmentor.io/challenges/art-gallery-website-yVdrZlxyA). This 2-page art gallery project contains some particularly interesting layouts.
 
-(resources/assets/screenshot.png)
+!(resources/assets/screenshot.png)
 
 # 🔗 Links
 
